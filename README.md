@@ -1,2 +1,2 @@
-# Calculatorz
+# PIP
 Calculator python module.
